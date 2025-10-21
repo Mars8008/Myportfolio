@@ -13,8 +13,8 @@ export default function Home2() {
 							<div className="row align-items-end py-60">
 								<div className="col-lg-5 ps-lg-5 text-lg-start text-center">
 									<div className="position-relative mb-lg-0 mb-5">
-										<img src="assets/imgs/home-page-2/hero-1/people.png" alt="zelio" />
-										<div className="position-absolute end-0 top-100 translate-middle-y icon-decorate">
+										<img src="assets/imgs/home-page-2/hero-1/people.png" alt="zelio "  className='rounded-circle overlay'/>
+										<div className="position-absolute end-0 top-10 translate-middle-y icon-decorate">
 											<img src="assets/imgs/home-page-2/hero-1/icon.svg" alt="zelio" />
 										</div>
 									</div>
@@ -70,8 +70,8 @@ export default function Home2() {
 											</div>
 										</div>
 										<Link href="assets/resume.pdf" className="btn me-2 text-300 ps-0 mt-4" target="_blank">
-											<i className="ri-download-line text-primary-2" />
-											[ Download my CV ]
+										
+										
 										</Link>
 									</div>
 								</div>
