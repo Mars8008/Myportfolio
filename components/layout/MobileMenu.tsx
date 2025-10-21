@@ -31,16 +31,16 @@ export default function MobileMenu({ isMobileMenu, handleMobileMenu }: any) {
 											<Link className="nav-link active" href="/">Home</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/services">Services</Link>
+											<Link className="nav-link" href="/">Services</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/work">Portfolio</Link>
+											<Link className="nav-link" href="/">Portfolio</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/pricing">Pricing</Link>
+											<Link className="nav-link" href="/">Pricing</Link>
 										</li>
 										<li className="nav-item">
-											<Link className="nav-link" href="/blog-list">Blog</Link>
+											<Link className="nav-link" href="/">Blog</Link>
 										</li>
 										<li className="nav-item">
 											<Link className="nav-link" href="/#contact">Contact</Link>
