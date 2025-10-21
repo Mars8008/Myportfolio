@@ -64,7 +64,9 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 									</div>
 								</div>
 							</div>
+							<div className='mx-2'>
 							<ThemeSwitch />
+							</div>
 						</nav>
 					</div>
 					{/* offCanvas-menu */}

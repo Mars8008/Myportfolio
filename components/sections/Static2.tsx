@@ -15,7 +15,7 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-shape-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={6} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={2} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
 											<p className="fs-6 mb-0 text-dark">Year Experience</p>
@@ -27,7 +27,7 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-computer-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={100} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={50} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
 											<p className="fs-6 mb-0 text-dark">Projects Completed</p>
@@ -39,7 +39,7 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-service-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={200} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={80} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
 											<p className="fs-6 mb-0 text-dark">Satisfied Clients</p>
@@ -51,10 +51,10 @@ export default function Static2() {
 										<div className="content mx-auto">
 											<i className="ri-award-line text-primary-2" />
 											<h2 className="text-300 my-0 fs-50">
-												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={4} />
+												<CountUp className="odometer text-dark fw-medium" enableScrollSpy={true} end={3} />
 												<span className="fs-50 text-300 mb-0">+</span>
 											</h2>
-											<p className="fs-6 mb-0 text-dark">Awards Winner</p>
+											<p className="fs-6 mb-0 text-dark">Certificate</p>
 										</div>
 									</div>
 								</div>
