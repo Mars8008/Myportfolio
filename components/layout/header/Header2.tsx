@@ -60,7 +60,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 									</div>
 								</div>
 							</div>
-							<div className="mr-2">
+							<div className="mr-5">
 							<ThemeSwitch />
 							</div>
 						</nav>
