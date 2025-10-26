@@ -13,10 +13,10 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 							<a className="navbar-menu p-4 text-center square-100 menu-tigger icon_80 icon-shape d-none d-md-flex" data-bs-target=".offCanvas__info" aria-controls="offCanvas__info" onClick={handleOffCanvas}>
 								<i className="ri-menu-2-line" />
 							</a>
-							<div className="container py-3 px-4">
-								<Link className="navbar-brand d-flex main-logo align-items-center" href="/index-2">
+							<div className="container py-3 px-2">
+								<Link className="navbar-brand d-flex main-logo align-items-center" href="#about">
 									<img src="assets/imgs/home-page-2/template/favicon.svg" alt="zelio" />
-									<span className="fs-4 ms-2">Angarag.dev</span>
+									<span className="fs-4 ms-2">Mars.dev</span>
 								</Link>
 								<div className="d-none d-lg-flex">
 									<div className="collapse navbar-collapse" id="navbarSupportedContent">
@@ -31,11 +31,11 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 												<Link className="nav-link" href="#services">Services</Link>
 											</li>
 											<li className="nav-item">
-												<Link className="nav-link" href="#portfolio">Portfolio</Link>
+												<Link className="nav-link" href="#projects">Project</Link>
 											</li>
-											<li className="nav-item">
+											{/* <li className="nav-item">
 												<Link className="nav-link" href="#blog">Blog</Link>
-											</li>
+											</li> */}
 											<li className="nav-item">
 												<Link className="nav-link" href="#contact">Contact</Link>
 											</li>
@@ -44,16 +44,12 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								</div>
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
-										<Link href="/http://facebook.com">
+										<Link href="https://www.facebook.com/angarag.ulziibadrakh/">
 											<i className="ri-facebook-circle-fill fs-18" />
 										</Link>
-										<Link href="/http://twitter.com">
-											<i className="ri-twitter-x-fill fs-18" />
-										</Link>
-										<Link href="/http://linkedin.com">
-											<i className="ri-linkedin-fill fs-18" />
-										</Link>
-										<Link href="/http://github.com">
+										
+										
+										<Link href="https://github.com/Mars8008">
 											<i className="ri-github-fill fs-18" />
 										</Link>
 									</div>
@@ -64,7 +60,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 									</div>
 								</div>
 							</div>
-							<div className='mx-2'>
+							<div className="mr-2">
 							<ThemeSwitch />
 							</div>
 						</nav>

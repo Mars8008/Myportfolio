@@ -102,7 +102,7 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Front-End:</p>
-																	<span className="text-300">HTML, CSS, JavaScript, React, Angular</span>
+																	<span className="text-300">HTML, CSS, JavaScript, React, Tailwind, Angular</span>
 																</div>
 															</li>
 															<li className="mb-3">
@@ -120,7 +120,7 @@ export default function Skills2() {
 															<li className="mb-3">
 																<div className="d-flex flex-column flex-md-row gap-2">
 																	<p className="text-dark text-nowrap mb-0">Tools &amp; Platforms:</p>
-																	<span className="text-300">Git, Docker, AWS, Heroku</span>
+																	<span className="text-300">Git, Docker, AWS,</span>
 																</div>
 															</li>
 															<li className="mb-3">

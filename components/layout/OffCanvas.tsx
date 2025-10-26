@@ -14,10 +14,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 					<div className="offCanvas__side-info mb-30">
 						<div className="contact-list mb-30">
 							<p className="fs-6 fw-medium text-200 mb-5">I'm always excited to take on new projects and collaborate with innovative minds.</p>
-							<div className="mb-3">
+							{/* <div className="mb-3">
 								<span className="text-400 fs-5">Phone Number</span>
 								<p className="mb-0">+1-240-791-2566</p>
-							</div>
+							</div> */}
 							<div className="mb-3">
 								<span className="text-400 fs-5">Email</span>
 								<p className="mb-0">angarag8008@gmail.com</p>
@@ -34,16 +34,10 @@ export default function OffCanvas({ isOffCanvas, handleOffCanvas }: any) {
 						<div className="contact-list">
 							<p className="text-400 fs-5 mb-2">Social</p>
 							<div className="d-md-flex d-none gap-3">
-								<Link href="/http://facebook.com">
+								<Link href="https://www.facebook.com/angarag.ulziibadrakh/">
 									<i className="ri-facebook-circle-fill fs-18" />
 								</Link>
-								<Link href="/http://twitter.com">
-									<i className="ri-twitter-x-fill fs-18" />
-								</Link>
-								<Link href="/http://linkedin.com">
-									<i className="ri-linkedin-fill fs-18" />
-								</Link>
-								<Link href="/http://github.com">
+								<Link href="https://github.com/Mars8008">
 									<i className="ri-github-fill fs-18" />
 								</Link>
 							</div>

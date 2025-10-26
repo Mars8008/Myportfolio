@@ -4,7 +4,7 @@ export default function Contact2() {
 	return (
 		<>
 
-			<section id="contact" className="section-contact-2 position-relative pb-60 overflow-hidden">
+			<section id="contact" className="section-contact-2 position-relative pb-60 overflow-hidden mt-5">
 				<div className="container position-relative z-1">
 					<div className="row align-items-center">
 						<div className="col-lg-7 pb-5 pb-lg-0">
@@ -41,7 +41,7 @@ export default function Contact2() {
 							</div>
 						</div>
 						<div className="col-lg-5 d-flex flex-column ps-lg-8">
-							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
+							{/* <div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
 									<div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
 										<i className="ri-phone-fill text-primary-2 fs-26" />
@@ -52,7 +52,7 @@ export default function Contact2() {
 									<h6 className="mb-0">+1-240-791-2566</h6>
 								</div>
 								<a href="tel:+1-234-567-8901" className="position-absolute top-0 start-0 w-100 h-100" />
-							</div>
+							</div> */}
 							<div className="d-flex align-items-center mb-3 position-relative d-inline-flex">
 								<div className="d-inline-block">
 									<div className="icon-flip flex-nowrap icon-shape icon-xxl border border-1 rounded-3 bg-3">
