@@ -45,12 +45,12 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								<div className="navbar-social d-flex align-items-center pe-5 pe-lg-0 me-5 me-lg-0">
 									<div className="d-md-flex d-none gap-3">
 										<Link href="https://www.facebook.com/angarag.ulziibadrakh/">
-											<i className="ri-facebook-circle-fill fs-18" />
+											<i className="ri-facebook-circle-fill fs-18 " />
 										</Link>
 										
 										
 										<Link href="https://github.com/Mars8008">
-											<i className="ri-github-fill fs-18" />
+											<i className="ri-github-fill fs-18 " />
 										</Link>
 									</div>
 									<div className="burger-icon burger-icon-white border rounded-3" onClick={handleMobileMenu}>
@@ -61,7 +61,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu,isOffCa
 								</div>
 							</div>
 							<div className="mr-5">
-							<ThemeSwitch />
+							{/* <ThemeSwitch /> */}
 							</div>
 						</nav>
 					</div>
