@@ -41,7 +41,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
 													<div>
 														<span className="text-primary-2">Mongolian University Science And Technology</span>
-														<p className="text-dark">Bachelor’s Degree in Computer Science</p>
+														<p className="text-dark">Bachelor’s Degree in Electronic engiiner</p>
 													</div>
 												</div>
 											</li>
