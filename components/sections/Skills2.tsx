@@ -87,7 +87,7 @@ export default function Skills2() {
 																<Link href="#" className="brand-logo icon_80 icon-shape rounded-3">
 																	<img src="assets/imgs/home-page-2/hero-1/icon-5.svg" alt="brand" />
 																</Link>
-																<span className="tool-tip">Tailwind</span>
+																<span className="tool-tip">Tailwind CSS</span>
 															</li>
 														</ul>
 													</Marquee>
