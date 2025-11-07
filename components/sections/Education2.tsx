@@ -32,7 +32,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2024-2025:</p>
 													<div>
 														<span className="text-primary-2">PineCone Bootcamp Academy</span>
-														<p className="text-dark">Certification in Full Stack Web Development</p>
+														<p className="text-dark">Certification in Full Stack Web Developer</p>
 													</div>
 												</div>
 											</li>
@@ -41,7 +41,7 @@ export default function Education2() {
 													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
 													<div>
 														<span className="text-primary-2">Mongolian University Science And Technology</span>
-														<p className="text-dark">Bachelor’s Degree in Electronic engiiner</p>
+														<p className="text-dark"> Electronic engiiner</p>
 													</div>
 												</div>
 											</li>
