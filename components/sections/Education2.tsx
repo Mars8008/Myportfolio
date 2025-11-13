@@ -36,7 +36,7 @@ export default function Education2() {
 													</div>
 												</div>
 											</li>
-											<li className="position-relative z-1 mb-3">
+											{/* <li className="position-relative z-1 mb-3">
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2020-2024:</p>
 													<div>
@@ -44,7 +44,7 @@ export default function Education2() {
 														<p className="text-dark"> Electronic engiinering </p>
 													</div>
 												</div>
-											</li>
+											</li> */}
 											{/* <li className="position-relative z-1 mb-3">
 												<div className="d-flex gap-2">
 													<p className="text-300 text-nowrap fw-regular mb-0">2013-2015:</p>
